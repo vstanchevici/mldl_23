@@ -1,0 +1,12 @@
+version: '3.3'
+
+services:
+  instance:
+    build: .
+    volumes:
+      - type: bind
+        source: ../sources
+        target: /mldl
+    ports:
+      - ${HOST_PORT}:8081
+    restart: unless-stopped
