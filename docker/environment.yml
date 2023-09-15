@@ -1,4 +1,4 @@
-name: mod1
+name: env1
 channels:
   - conda-forge
 dependencies:

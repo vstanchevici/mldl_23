@@ -1,0 +1,10 @@
+name: env1
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab
+  - pandas
+  - seaborn
+  - scikit-learn
+  - keras
+  - tensorflow
