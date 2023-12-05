@@ -10,3 +10,5 @@ dependencies:
   - tensorflow
   - plotly
   - tsfresh
+  - scikit-surprise
+  - apyori
