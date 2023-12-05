@@ -1,0 +1,3 @@
+to update:
+    conda activate env1
+    conda env update --name env1 --prune
