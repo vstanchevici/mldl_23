@@ -8,3 +8,5 @@ dependencies:
   - scikit-learn
   - keras
   - tensorflow
+  - plotly
+  - tsfresh
