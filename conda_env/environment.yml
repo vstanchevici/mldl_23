@@ -11,3 +11,4 @@ dependencies:
   - plotly
   - tsfresh
   - scikit-surprise
+  - apyori

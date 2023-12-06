@@ -1,3 +1,9 @@
-to update:
+create:
+    conda env create
+
+remove:
+    conda remove --name env1 --all
+
+update:
     conda activate env1
     conda env update --name env1 --prune
